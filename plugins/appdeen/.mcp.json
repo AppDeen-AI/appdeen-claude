@@ -2,7 +2,7 @@
   "mcpServers": {
     "appdeen": {
       "type": "http",
-      "url": "https://mr.appdeen.ai/mcp"
+      "url": "https://mr.appdeen.ai/mcp/directory"
     }
   }
 }
