@@ -9,7 +9,7 @@ The person typed: $ARGUMENTS
 
 Use the AppDeen connector.
 
-- Nothing typed: call `list_agents` and show the agents as a short list, each with one line on what it does, then ask which one and what for.
+- Nothing typed: call `show_agents`, which shows the person a card of their agents to pick from. Add nothing after it.
 - An agent named with a task: fetch its profile with `recall` (the agent and the task), then launch one subagent with the Agent tool, subagent_type general-purpose, whose prompt is the profile followed by the task. Show its reply and share any file it made.
 - An agent named with no task: ask what it should do.
 - A name that matches no agent: call `list_agents` and offer the closest ones.
