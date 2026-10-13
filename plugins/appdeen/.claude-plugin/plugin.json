@@ -1,0 +1,11 @@
+{
+  "name": "appdeen",
+  "version": "0.3.0",
+  "description": "Your AppDeen agents in Claude: run any of them with /appdeen, with its instructions, memory and the accounts connected in AppDeen.",
+  "author": {
+    "name": "AppDeen",
+    "email": "hello@appdeen.ai"
+  },
+  "homepage": "https://appdeen.ai",
+  "license": "Proprietary"
+}

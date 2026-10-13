@@ -1,0 +1,12 @@
+{
+  "name": "appdeen",
+  "owner": { "name": "AppDeen", "email": "hello@appdeen.ai" },
+  "description": "AppDeen's plugins for Claude.",
+  "plugins": [
+    {
+      "name": "appdeen",
+      "source": "./plugins/appdeen",
+      "description": "Your AppDeen agents in Claude: run any of them with /appdeen, with its instructions, memory and accounts."
+    }
+  ]
+}
