@@ -6,7 +6,7 @@
     {
       "name": "appdeen",
       "source": "./plugins/appdeen",
-      "description": "Your AppDeen agents and groups in Claude: run any agent with /appdeen, work in a group with /appdeen-group."
+      "description": "Your AppDeen in Claude: /appdeen at a glance, /mr-appdeen the front desk, /appdeen-agent and /appdeen-group."
     }
   ]
 }

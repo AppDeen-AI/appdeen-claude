@@ -1,7 +1,7 @@
 {
   "name": "appdeen",
-  "version": "0.6.0",
-  "description": "Your AppDeen agents and groups in Claude: run any agent with /appdeen and work in a group with /appdeen-group, with its instructions, memory and the accounts connected in AppDeen.",
+  "version": "0.7.0",
+  "description": "Your AppDeen in Claude: /appdeen shows it at a glance, /mr-appdeen asks the front desk, /appdeen-agent runs an agent, /appdeen-group works in a group.",
   "author": {
     "name": "AppDeen",
     "email": "hello@appdeen.ai"
