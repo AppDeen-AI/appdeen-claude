@@ -6,7 +6,7 @@
     {
       "name": "appdeen",
       "source": "./plugins/appdeen",
-      "description": "Your AppDeen agents in Claude: run any of them with /appdeen, with its instructions, memory and accounts."
+      "description": "Your AppDeen agents and groups in Claude: run any agent with /appdeen, work in a group with /appdeen-group."
     }
   ]
 }
