@@ -10,6 +10,8 @@
   "homepage": "https://appdeen.ai",
   "repository": "https://github.com/AppDeen-AI/appdeen-claude",
   "license": "MIT",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://appdeen.ai/privacy",
   "keywords": [
     "agents",
     "workspace",
