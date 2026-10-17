@@ -1,11 +1,19 @@
 {
   "name": "appdeen",
-  "version": "0.7.0",
+  "displayName": "AppDeen",
+  "version": "0.8.0",
   "description": "Your AppDeen in Claude: /appdeen shows it at a glance, /mr-appdeen asks the front desk, /appdeen-agent runs an agent, /appdeen-group works in a group.",
   "author": {
     "name": "AppDeen",
     "email": "hello@appdeen.ai"
   },
   "homepage": "https://appdeen.ai",
-  "license": "MIT"
+  "repository": "https://github.com/AppDeen-AI/appdeen-claude",
+  "license": "MIT",
+  "keywords": [
+    "agents",
+    "workspace",
+    "automation",
+    "connectors"
+  ]
 }
