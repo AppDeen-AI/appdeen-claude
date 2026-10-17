@@ -12,6 +12,9 @@
   "license": "MIT",
   "icon": "./.claude-plugin/icon.png",
   "privacyPolicyUrl": "https://appdeen.ai/privacy",
+  "termsOfServiceUrl": "https://appdeen.ai/terms",
+  "documentationUrl": "https://mr.appdeen.ai/docs",
+  "supportUrl": "mailto:hello@appdeen.ai",
   "keywords": [
     "agents",
     "workspace",
