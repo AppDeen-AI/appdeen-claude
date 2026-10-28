@@ -1,7 +1,7 @@
 {
   "name": "appdeen",
   "displayName": "AppDeen",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Your AppDeen in Claude: /appdeen shows it at a glance, /mr-appdeen asks the front desk, /appdeen-agent runs an agent, /appdeen-group works in a group.",
   "author": {
     "name": "AppDeen",
